@@ -1,0 +1,32 @@
+{
+  "name": "cloud-based-event-management-system",
+  "version": "1.0.0",
+  "description": "Cloud-Based Event Management System - a web application for creating, managing and registering for events.",
+  "main": "server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node scripts/seed.js",
+    "reset": "node scripts/seed.js --force",
+    "test": "node tests/smoke.test.js",
+    "test:ui": "node tests/render.test.js",
+    "test:all": "node tests/smoke.test.js && node tests/render.test.js"
+  },
+  "keywords": [
+    "event-management",
+    "nodejs",
+    "express",
+    "rest-api",
+    "cloud"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "optionalDependencies": {
+    "express": "^4.19.2"
+  }
+}

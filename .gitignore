@@ -1,0 +1,22 @@
+# Runtime data — the JSON database. Delete this folder for a clean slate,
+# then `npm run seed`.
+data/
+
+# Local configuration (copy .env.example to .env)
+.env
+
+# Dependencies. The project has none, but a developer may install the optional
+# real Express, or tooling.
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
