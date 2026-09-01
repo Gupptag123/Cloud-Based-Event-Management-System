@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f1f2ee">
+  <meta name="description" content="Cloud-Based Event Management System — publish events, take registrations, approve attendees, and track capacity in real time.">
+  <title>Cloud-Based Event Management System</title>
+
+  <!-- A pass-shaped favicon drawn inline so the app needs no network at all. -->
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23141b33'/%3E%3Ccircle cx='0' cy='16' r='3' fill='%23f1f2ee'/%3E%3Ccircle cx='32' cy='16' r='3' fill='%23f1f2ee'/%3E%3Ctext x='16' y='21' font-family='monospace' font-size='11' font-weight='700' fill='%230e7c7b' text-anchor='middle'%3ECB%3C/text%3E%3C/svg%3E">
+
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <!-- The router paints the masthead, <main id="main"> and the footer in here. -->
+  <div id="app">
+    <noscript>
+      <div style="max-width:40rem;margin:4rem auto;padding:1.5rem;border:1px solid #d9dbd2;border-radius:6px;font-family:system-ui,sans-serif">
+        <h1 style="margin-top:0">JavaScript is required</h1>
+        <p>This application renders its pages in the browser and talks to the server over a
+           JSON API. Please enable JavaScript and reload the page.</p>
+      </div>
+    </noscript>
+  </div>
+
+  <!-- Toast and modal layers are created on demand by ui.js, but declaring
+       them here keeps the stacking order predictable. -->
+  <div class="toasts" id="toasts" aria-live="polite" aria-atomic="false"></div>
+  <div class="modal" id="modal" hidden></div>
+
+  <!-- Load order matters: transport, then toolkit, then views, then router. -->
+  <script src="js/api.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/views-public.js"></script>
+  <script src="js/views-account.js"></script>
+  <script src="js/views-organizer.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
