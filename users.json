@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "6a8c87a196450938390b3716",
+    "name": "Ananya Sharma",
+    "email": "organizer@demo.com",
+    "password": "scrypt$64d551e1859954f7a55c8dcd661caa93$f7dc3ee4fc8541a1310ba2e480785eb38bc37390685152e2bc13268d0957bdae16624d8fb50e966f9615be73703ea0b5c49a4f6cf5884ca527da40557efbfd5b",
+    "role": "organizer",
+    "phone": "+91 98765 43210",
+    "organization": "TechFest Committee",
+    "createdAt": "2026-08-24T18:04:17.653Z",
+    "updatedAt": "2026-08-24T18:04:17.653Z"
+  },
+  {
+    "_id": "6a8c87a122c069964fe306d1",
+    "name": "Rahul Verma",
+    "email": "rahul@demo.com",
+    "password": "scrypt$0325ea31a6ef71e92732a4a446f508b4$dfd58a3097f7d14280219f7a4c8b0102b94dc78d57963eb2e507922a5f98505fa987878665371482194535743f60644d535e917f6cb46de5248bc093b730843a",
+    "role": "organizer",
+    "phone": "+91 91234 56780",
+    "organization": "Cultural Society",
+    "createdAt": "2026-08-24T18:04:17.883Z",
+    "updatedAt": "2026-08-24T18:04:17.883Z"
+  },
+  {
+    "_id": "6a8c87a28064f3cf65672631",
+    "name": "Priya Nair",
+    "email": "participant@demo.com",
+    "password": "scrypt$f47a9824c5f2e3a6a408776aad0702d5$97faf837df90c82bf467dd2ccdecfc8527ccb4c85e24edef8caac14c61e153c9b12f2653552a2855c5372b73d3295bf665768ac7fc25ec5807766041e5af0ef1",
+    "role": "participant",
+    "phone": "+91 90000 11122",
+    "organization": "Dept. of Computer Science",
+    "createdAt": "2026-08-24T18:04:18.110Z",
+    "updatedAt": "2026-08-24T18:04:18.110Z"
+  },
+  {
+    "_id": "6a8c87a24e56e3f1f2e8db28",
+    "name": "Arjun Mehta",
+    "email": "arjun@demo.com",
+    "password": "scrypt$b853d9f51a0fba9839f63931c54faa8a$fb1dd8099ac96e4e21f91d5384c38f48f6975435f803d6a357dfb5cd32f016d25640d96aeb33d558be683588eb3b79a1b5eff81be88a677f895bfcf1ec8176eb",
+    "role": "participant",
+    "phone": "+91 90000 22233",
+    "organization": "Dept. of Electronics",
+    "createdAt": "2026-08-24T18:04:18.283Z",
+    "updatedAt": "2026-08-24T18:04:18.283Z"
+  },
+  {
+    "_id": "6a8c87a295e49b8538d1f8ee",
+    "name": "Sneha Iyer",
+    "email": "sneha@demo.com",
+    "password": "scrypt$4d090315490fac3fa01ff406ca610294$8bf3ea366993a6b1a8d964f312beaa2597d0351abe1495deb22ad3fad4d2ac282721c94a657ce4b456b6372ee05ba336c7551376555a3089d7f609a9d851f0e3",
+    "role": "participant",
+    "phone": "+91 90000 33344",
+    "organization": "Dept. of Mechanical",
+    "createdAt": "2026-08-24T18:04:18.397Z",
+    "updatedAt": "2026-08-24T18:04:18.397Z"
+  },
+  {
+    "_id": "6a8c87a25e6c55096825f0e4",
+    "name": "Karthik Reddy",
+    "email": "karthik@demo.com",
+    "password": "scrypt$710efa03cd803d792a5a7349e292d5a0$76fba4a288d6f126a285d0ee66af5e752cda8082552133af3f90cbc9ae9752978f0b50b9c2468b97c9313e7c4b00a99898a7280b66ef4797f217fc1d4bf6f1ea",
+    "role": "participant",
+    "phone": "+91 90000 44455",
+    "organization": "Dept. of Civil",
+    "createdAt": "2026-08-24T18:04:18.509Z",
+    "updatedAt": "2026-08-24T18:04:18.509Z"
+  },
+  {
+    "_id": "6a8c87a239de2afdd4b7ce14",
+    "name": "Meera Joseph",
+    "email": "meera@demo.com",
+    "password": "scrypt$45cabd5ef5f794e84bcc365449064946$b8a973ca805520412c0a7c4172b3f59f72238288220dc3e2fca68007e0b0f116b754caa529fd9ddd6d2fe1c11ff426a7d384aa41c648c8a712bec1a9a3401c18",
+    "role": "participant",
+    "phone": "+91 90000 55566",
+    "organization": "Dept. of Information Technology",
+    "createdAt": "2026-08-24T18:04:18.620Z",
+    "updatedAt": "2026-08-24T18:04:18.620Z"
+  },
+  {
+    "_id": "6a8c87a24ccd39754fe0f40a",
+    "name": "System Administrator",
+    "email": "admin@demo.com",
+    "password": "scrypt$cc3eda90856df54fe6a22dd9d6226596$ef86987ae0b0707007366af3af1e00a988605e5758a34cde10e01790b6e8f1373d928f2ec0a335d58f8756f3f38bddd008cbb4c6daf8de0dbd3fd78c519fe55b",
+    "role": "admin",
+    "phone": "+91 90000 00000",
+    "organization": "CBEMS",
+    "createdAt": "2026-08-24T18:04:18.734Z",
+    "updatedAt": "2026-08-24T18:04:18.734Z"
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "_id": "6a8c87a2587ff38ed1b18498",
+    "name": "Main Auditorium",
+    "address": "Academic Block A, Ground Floor",
+    "city": "Bengaluru",
+    "capacity": 500,
+    "facilities": [
+      "Projector",
+      "Air Conditioning",
+      "Sound System",
+      "Stage Lighting",
+      "Wheelchair Access"
+    ],
+    "createdBy": "6a8c87a196450938390b3716",
+    "createdAt": "2026-08-24T18:04:18.770Z",
+    "updatedAt": "2026-08-24T18:04:18.770Z"
+  },
+  {
+    "_id": "6a8c87a20563e58aa62fef37",
+    "name": "Seminar Hall 2",
+    "address": "Academic Block B, 2nd Floor",
+    "city": "Bengaluru",
+    "capacity": 120,
+    "facilities": [
+      "Projector",
+      "Air Conditioning",
+      "Whiteboard",
+      "Wi-Fi"
+    ],
+    "createdBy": "6a8c87a196450938390b3716",
+    "createdAt": "2026-08-24T18:04:18.803Z",
+    "updatedAt": "2026-08-24T18:04:18.803Z"
+  },
+  {
+    "_id": "6a8c87a2f6b40fd0f0a8e951",
+    "name": "Innovation Lab",
+    "address": "Research Wing, 1st Floor",
+    "city": "Bengaluru",
+    "capacity": 60,
+    "facilities": [
+      "Workstations",
+      "High-speed Wi-Fi",
+      "3D Printer",
+      "Power Outlets"
+    ],
+    "createdBy": "6a8c87a196450938390b3716",
+    "createdAt": "2026-08-24T18:04:18.840Z",
+    "updatedAt": "2026-08-24T18:04:18.840Z"
+  },
+  {
+    "_id": "6a8c87a2fa6d0f23c26b4659",
+    "name": "Central Sports Ground",
+    "address": "North Campus",
+    "city": "Bengaluru",
+    "capacity": 1500,
+    "facilities": [
+      "Floodlights",
+      "Seating Stands",
+      "First Aid Room",
+      "Changing Rooms"
+    ],
+    "createdBy": "6a8c87a196450938390b3716",
+    "createdAt": "2026-08-24T18:04:18.883Z",
+    "updatedAt": "2026-08-24T18:04:18.883Z"
+  },
+  {
+    "_id": "6a8c87a2544aeb6fdead8fc5",
+    "name": "Open Air Theatre",
+    "address": "Behind Central Library",
+    "city": "Bengaluru",
+    "capacity": 800,
+    "facilities": [
+      "Stage",
+      "Sound System",
+      "Tiered Seating"
+    ],
+    "createdBy": "6a8c87a196450938390b3716",
+    "createdAt": "2026-08-24T18:04:18.917Z",
+    "updatedAt": "2026-08-24T18:04:18.917Z"
+  },
+  {
+    "_id": "6a8c87a2dd9b2cbad157365c",
+    "name": "Cyber Convention Centre",
+    "address": "14 MG Road",
+    "city": "Pune",
+    "capacity": 300,
+    "facilities": [
+      "Projector",
+      "Air Conditioning",
+      "Video Conferencing",
+      "Catering"
+    ],
+    "createdBy": "6a8c87a196450938390b3716",
+    "createdAt": "2026-08-24T18:04:18.953Z",
+    "updatedAt": "2026-08-24T18:04:18.953Z"
+  },
+  {
+    "_id": "6a8c87a2fdef3d5ee7bfae58",
+    "name": "Startup Incubation Hub",
+    "address": "Tech Park Phase 2",
+    "city": "Hyderabad",
+    "capacity": 80,
+    "facilities": [
+      "Meeting Pods",
+      "Wi-Fi",
+      "Coffee Bar"
+    ],
+    "createdBy": "6a8c87a196450938390b3716",
+    "createdAt": "2026-08-24T18:04:18.993Z",
+    "updatedAt": "2026-08-24T18:04:18.993Z"
+  }
+]
